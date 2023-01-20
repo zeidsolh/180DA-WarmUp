@@ -17,6 +17,9 @@ https://onecompiler.com/python/3xdvdjyjk
 Dominant.py:
 https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
 
+Dominantrect.py:
+https://stackoverflow.com/questions/73808864/get-most-dominant-colors-from-video-opencv-python
+
 Dominantvideo.py:
 https://stackoverflow.com/questions/73808864/get-most-dominant-colors-from-video-opencv-python
 
