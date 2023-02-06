@@ -386,4 +386,6 @@ def prob_viz(res, actions, input_frame, colors):
 The function outputs all three classes (in my case “Happy”, “Sad”, and “Wakanda Forever”) to the video feed with their respective probabilities in an interactive way (the rectangle widens and shrinks depending on the probability of each class). Feel free to modify the colors :)
 
 This is the final result:
+
+
 ![wiki](https://user-images.githubusercontent.com/74027562/216871796-de8e85e2-c643-46fa-bf39-56979bc80e4e.gif)
